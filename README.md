@@ -40,7 +40,7 @@ It's just a simple form page created using only standard golang libs and html.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Tecnologies used in this project.
 
 * [![HTML][HTML]][HTML-url]
 * [![GOLANG][GOLANG]][GOLANG-url]
